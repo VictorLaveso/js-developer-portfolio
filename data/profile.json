@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
+  "name": "Victor Hugo Laveso",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "job": "Desenvolvedor Full Stack na Moniloc",
+  "location": "Pradópolis - SP",
+  "phone": "(16) 99414-0680",
+  "email": "victorhugolavezo@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -16,25 +16,16 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Flutter",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/flutter.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,9 +33,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
@@ -60,19 +49,24 @@
   ],
   "professionalExperience": [
     {
+      "name": "Desenvolvedor de software FullStack / Moniloc",
+      "period": "06/2024 - até o momento",
+      "description": "Principais Atividades: desenvolvimento e manutenção do software na parte de frontend e backend, integração e comunicação com o banco de dados, criação de dashboards interativos, telas de cadastro e busca, criação de um aplicativo mobile integrado à plataforma web."
+    },
+    {
       "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "period": "08/2022 - 06/2024",
+      "description": "Principais atividades: Elaboração de projetos, Homologação, suporte ao cliente, operador de drone, monitoramento de instalações solares, financeiro, desenvolvimento do site das empresas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Estagiário de engenharia / Solar Connections do Brasil",
+      "period": "10/2021 - 08/2022",
+      "description": "Principais atividades: Elaboração de projetos, Homologação, suporte ao cliente, operador de drone, monitoramento de instalações solares, financeiro."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Jovem Aprendiz / São Martinho",
+      "period": "01/2020 - 09/2021",
+      "description": "Principais atividades: Agendar treinamentos de operadores e motoristas, agendar periódicos, atendimento aos colaboradores e controle de jornadas."
     }
   ]
 }
